@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "project-60",
+    "slug": "snack-9a007114-2ae0-4c53-90cf-4da95531e925",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pumpkinpie1.snack9a0071142ae04c5390cf4da95531e925"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.pumpkinpie1.snack9a0071142ae04c5390cf4da95531e925"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2d558b02-e3c1-4f69-88b9-4331a0e625f6"
+      }
+    }
+  }
+}
